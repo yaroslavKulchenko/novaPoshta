@@ -131,5 +131,6 @@ border-width: 1em 1em 0 0;
 td{
   background: rgba(206, 40, 40, 0.26);
   text-align: center;
+  top: 10px;
 }
 </style>
